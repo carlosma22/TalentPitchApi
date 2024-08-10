@@ -7,7 +7,7 @@ Los registros se crean automáticamente y manual en las tablas `users`, `challen
 
 Antes de configurar y ejecutar este proyecto, asegúrate de tener lo siguiente instalado:
 
-- PHP >= 8.0
+- PHP >= 8.2
 - GIT
 - Composer
 - MySQL
